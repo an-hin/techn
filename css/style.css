@@ -1,0 +1,26 @@
+h1 {
+    text-align: right;
+    color: aqua;
+}
+h2 {
+    text-align: center;
+    width: 300px;
+    color: blueviolet;
+}
+
+table {
+    width: 500px;
+    color: aquamarine;
+}
+
+th {
+    text-align: center;
+    color: bisque;
+}
+
+p {
+    width: 300px;
+    text-align: justify;
+    color: blue;
+}
+
