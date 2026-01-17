@@ -1,0 +1,24 @@
+h1 {
+    text-weight: normal;
+    text-decoration: underline;
+    font: 16px Arial; 
+}
+h2 {
+    text-weight: normal;
+    text-decoration:overline;
+    font: 16px Arial; 
+    color: red;
+}
+h3 {
+    text-weight: normal;
+    text-decoration:line-through;
+    font: 16px Arial; 
+    color: green;
+}
+p {
+text-indent: 50px;
+}
+a {
+    text-decoration: none;
+}
+
